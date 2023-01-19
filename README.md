@@ -5,3 +5,8 @@ across different datasets. SCMCCA can be formulated as an optimization problem d
 algorithm to solve it.
 
 Downstream integrative analyses , such as joint clustering, are available based on the canonical results of SCMCCA.
+
+# Installation
+Extract the ZIP file (or clone the git repository). Then add the SCMCCA-main/ folder to your path in MATLAB.
+
+You can also use the "Set Path" dialog in MATLAB, or run the addpath function from your command window or startup script.
